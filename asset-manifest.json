@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toggle-redux/static/css/main.7075d0bd.css",
+    "main.js": "/toggle-redux/static/js/main.902556ab.js",
+    "index.html": "/toggle-redux/index.html",
+    "main.7075d0bd.css.map": "/toggle-redux/static/css/main.7075d0bd.css.map",
+    "main.902556ab.js.map": "/toggle-redux/static/js/main.902556ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7075d0bd.css",
+    "static/js/main.902556ab.js"
+  ]
+}
